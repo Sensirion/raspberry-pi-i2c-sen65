@@ -1,14 +1,15 @@
 # Sensirion Raspberry Pi I²C SEN65 Driver
 
-The repository provides a driver for setting up a SEN65 sensor to run on a Raspberry Pi over I²C.
+The repository provides a driver for setting up a SEN65 sensor
+to run on a Raspberry Pi over I²C.
 
-<img src="images/sen6x.png" width="300px">
+<img src="images/product-image-sen6x.png" width="300px">
 
 Click [here](https://sensirion.com/sen6x-air-quality-sensor-platform) to learn more about the Sensirion SEN65 sensor.
 
 
 
-The default I²C address of [SEN65](https://www.sensirion.com/products/catalog/SEN65) is **0x6B**.
+The default I²C address of [SEN65](https://www.sensirion.com/products/catalog/SEN65) is **0x6b**.
 
 
 
@@ -30,7 +31,7 @@ Use the following pins to connect your SEN65:
 
 ### Detailed sensor pinout
 
-<img src="images/sen6x-pinout.png" width="300px">
+<img src="images/product-pinout-sen6x.png" width="300px">
 
 | *Pin* | *Cable Color* | *Name* | *Description*  | *Comments* |
 |-------|---------------|:------:|----------------|------------|
